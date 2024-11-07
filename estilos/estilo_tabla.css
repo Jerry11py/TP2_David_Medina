@@ -1,21 +1,18 @@
-
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
-    color: #333;
+    background-color: #c3e0e5;
+    color: #274472;
     margin: 0;
     padding: 20px;
 }
 
-
 header {
     text-align: center;
-    background-color: #333;
+    background-color: #41729f;
     color: #fff;
     padding: 15px 0;
     margin-bottom: 20px;
 }
-
 
 main {
     background-color: #fff;
@@ -25,7 +22,6 @@ main {
     margin: 0 auto;
 }
 
-
 table {
     width: 100%;
     border-collapse: collapse;
@@ -34,12 +30,10 @@ table {
     text-align: left;
 }
 
-
 thead {
-    background-color: #333;
+    background-color: #274472;
     color: #fff;
 }
-
 
 th,
 td {
@@ -47,26 +41,24 @@ td {
     padding: 12px;
 }
 
-
 tr:nth-child(even) {
-    background-color: #f9f9f9;
+    background-color: #c3e0e5;
 }
-
 
 tr:hover {
-    background-color: #f1f1f1;
+    background-color: #5885af;
+    color: #fff;
 }
-
 
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #333;
+    background-color: #41729f;
     color: #fff;
-    margin-top: 20px;
 }
+
 nav {
-    background: #444;
+    background: #5885af;
     padding: 10px;
 }
 
@@ -76,6 +68,7 @@ nav ul {
     justify-content: center;
     padding: 0;
 }
+
 nav ul li {
     margin: 0 15px;
 }
